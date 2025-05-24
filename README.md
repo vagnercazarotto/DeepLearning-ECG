@@ -159,15 +159,15 @@ Available at: [https://doi.org/10.13026/7a4j-vn37](https://doi.org/10.13026/7a4j
 
 ### CNN Architecture
 
-![CNN Architecture](images/cnn_architecture.png)
+![CNN Architecture](imagens/cnn_architecture.png)
 
 ### Confusion Matrix
 
-![Confusion Matrix](images/confusion_matrix.png)
+![Confusion Matrix](imagens/confusion_matrix.png)
 
 ### Training Curves
 
-![Training Curves](images/training_curves.png)
+![Training Curves](imagens/training_curves.png)
 
 > Add generated figures in the `/images/` folder.
 
