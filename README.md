@@ -23,6 +23,14 @@ The ECG dataset used is the publicly available **Leipzig Heart Center ECG-Databa
 
 ---
 
+## Project Demonstration Video
+
+[![Watch the video](https://img.youtube.com/vi/BTTo5AqpTbM/maxresdefault.jpg)](https://youtu.be/BTTo5AqpTbM)
+
+
+
+---
+
 ## Table of Contents
 
 - [System Architecture](#system-architecture)
